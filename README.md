@@ -5,4 +5,4 @@ This is story viewer project made out of django and zuck library.
 * **LIBRARY** :
   * Zuck Library :
     *zuck. js is a robust JavaScript library that helps you share photos, videos and text with your friends in a fashion way.
-![Thankyou](https://thumbs.dreamstime.com/b/thank-you-heart-icon-stock-vector-thank-you-heart-icon-vector-164556606.jpg)
+![Thankyou](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm05_JYytKwCtCAzd6KX59HqCxtYcBbaxwIg&usqp=CAU)
